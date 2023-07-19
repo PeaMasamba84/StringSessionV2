@@ -79,7 +79,7 @@ async def executor(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="⏳",
+                        text="🪫",
                         callback_data=f"runtime {t2-t1} Seconds",
                     )
                 ]
