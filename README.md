@@ -17,7 +17,7 @@
 
 ### ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ](https://telegram.me/VIP_STRING_ROBOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ](http://telegram.me/VIP_STRING_BOT) 
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
