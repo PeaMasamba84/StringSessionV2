@@ -2,28 +2,28 @@
   <img src="https://telegra.ph/file/60a1816cae4e389407ee5.jpg" alt="StringGen">
 
  
-### 🤤 ғᴇᴀᴛᴜʀᴇs
+### ғᴇᴀᴛᴜʀᴇs
 
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
-- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ 🔥
+- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2
+- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ
+- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ
 - [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
 
-### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/STRING-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/PeaMasamba84/StringSessionV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
+### ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/VIP_STRING_ROBOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ](https://telegram.me/VIP_STRING_ROBOT)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
 ```
 
-## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
+##ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
 
 ☞ `API_ID` - Get your API_ID from [my.telegram.org](https://my.telegram.org/apps)<br>
 ☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
